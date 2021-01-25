@@ -1,3 +1,7 @@
+
+https://gracious-rosalind-eda9fa.netlify.app
+renk öbür sayfaya bazen gitmiyor sayfayı yenileyince geliyor.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
