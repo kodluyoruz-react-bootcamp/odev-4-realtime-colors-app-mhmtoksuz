@@ -2,12 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import { ColorContextProvider } from './context/ColorContext';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <ColorContextProvider>
     <App />
-  </React.StrictMode>,
+  </ColorContextProvider>,
   document.getElementById('root')
 );
 

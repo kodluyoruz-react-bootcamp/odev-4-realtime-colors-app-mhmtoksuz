@@ -1,0 +1,10 @@
+.colorcode {
+    position: absolute;
+    top: 35%;
+    right: 42%;
+    padding: 1rem;
+    z-index: 99;
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: bold;
+  }
